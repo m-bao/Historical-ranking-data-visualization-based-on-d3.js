@@ -34,8 +34,8 @@
   changeable_color: false,
 
   // 附加信息内容。
-  itemLabel: "左边文字",
-  typeLabel: "右边文字",
+  itemLabel: "Movie",
+  typeLabel: "Company",
   // 榜首项目信息的水平位置 。
   item_x: 400,
 
